@@ -359,6 +359,16 @@ footer{
     }
 }
 
+.mb-4{
+    text-align: center;
+}
 #getDataBtn{
-    font-size: 40px;
+    font-size: 36px;
+    background-color: grey;
+    color: white;
+    margin-left:45%;
+}
+#getDataBtn:hover{
+    background-color:white;
+    color:black;
 }
